@@ -1,19 +1,19 @@
 [
     {
       "id": 1,
-      "type": "Basic",
+      "type": "Basic Membership",
       "price": 29.99,
       "features": ["Gym Access", "Locker Room"]
     },
     {
       "id": 2,
-      "type": "Standard",
+      "type": "Standard Membership",
       "price": 49.99,
       "features": ["Gym Access", "Locker Room", "Group Classes"]
     },
     {
       "id": 3,
-      "type": "Premium",
+      "type": "Premium Membership",
       "price": 79.99,
       "features": ["Gym Access", "Locker Room", "Group Classes", "Personal Trainer"]
     }
